@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "nodemailer": "^6.9.3",
     "upper-case": "^2.0.2"
   }
 }
